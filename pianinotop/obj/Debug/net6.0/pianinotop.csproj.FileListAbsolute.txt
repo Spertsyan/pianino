@@ -1,0 +1,15 @@
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\bin\Debug\net6.0\pianinotop.exe
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\bin\Debug\net6.0\pianinotop.deps.json
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\bin\Debug\net6.0\pianinotop.runtimeconfig.json
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\bin\Debug\net6.0\pianinotop.dll
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\bin\Debug\net6.0\pianinotop.pdb
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\obj\Debug\net6.0\pianinotop.csproj.AssemblyReference.cache
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\obj\Debug\net6.0\pianinotop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\obj\Debug\net6.0\pianinotop.AssemblyInfoInputs.cache
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\obj\Debug\net6.0\pianinotop.AssemblyInfo.cs
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\obj\Debug\net6.0\pianinotop.csproj.CoreCompileInputs.cache
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\obj\Debug\net6.0\pianinotop.dll
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\obj\Debug\net6.0\refint\pianinotop.dll
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\obj\Debug\net6.0\pianinotop.pdb
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\obj\Debug\net6.0\pianinotop.genruntimeconfig.cache
+C:\Users\ERIK\source\repos\pianinotop\pianinotop\obj\Debug\net6.0\ref\pianinotop.dll

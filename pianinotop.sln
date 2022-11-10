@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pianinotop", "pianinotop\pianinotop.csproj", "{364865B6-82F8-4B3C-A725-F6700859C85F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{364865B6-82F8-4B3C-A725-F6700859C85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364865B6-82F8-4B3C-A725-F6700859C85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364865B6-82F8-4B3C-A725-F6700859C85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364865B6-82F8-4B3C-A725-F6700859C85F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {989A1BE1-A1BC-4EF0-BACD-73E4876CF16E}
+	EndGlobalSection
+EndGlobal
